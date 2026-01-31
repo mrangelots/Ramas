@@ -18,7 +18,7 @@ public class E1 {
         Double promedio = (double)suma / n;
         System.out.println("La suma de los valores ingresados es: " + suma);
         System.out.println("EL promedio de los valores ingresados es: " + promedio); //Imprimimos los valores de la suma y del promedio
-        
+        //git por favor dejame subir este trabajo 
         sc.close();
     }
 }
