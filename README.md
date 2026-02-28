@@ -1129,3 +1129,7 @@ Saliendo del sistema...
 
 ![alt text](image.png)
 
+## Conclusión 
+La elaboración de este proyecto representó un desafío integral que trascendió la escritura de código, convirtiéndose en un ejercicio de resiliencia y dominio técnico frente a un nuevo lenguaje de programación. El resultado principal fue la transición de la teoría a la práctica, donde conceptos complejos como la abstracción, encapsulación, herencia y polimorfismo cobraron sentido real al ser implementados en un entorno funcional; esto se justifica en que la programación no se memoriza, sino que se comprende a través de la depuración constante y la resolución de errores sintácticos que exigen una precisión absoluta.
+
+Más allá de lo técnico, el proyecto destaca la importancia de la mentoría y la gestión emocional ante la frustración. Gracias a las sesiones con el docente, se logró entender que cada problema tiene una solución lógica y que la claridad en la nomenclatura de variables y la comprensión lectora son vitales para evitar "datos perdidos" o errores evitables. En conclusión, esta experiencia deja la enseñanza de que el éxito de un software no solo reside en su funcionamiento, sino en la capacidad del programador para no rendirse, organizar su tiempo y transformar un proyecto académico en una pieza sólida de portafolio profesional, demostrando que la persistencia siempre encuentra la manera de solucionar cualquier obstáculo.
