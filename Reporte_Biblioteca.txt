@@ -1,0 +1,14 @@
+==== REPORTE BIBLIOTECA ====
+
+---- USUARIOS ----
+Usuario -> ID: U2, Nombre: Maria, Apellido: Lopez, Correo: maria@mail.com, Telefono: 4466243571
+Usuario -> ID: 1, Nombre: Mateo , Apellido: Reyes, Correo: mateoreyesrangel@gmail.com, Telefono: 4461221628
+
+---- MATERIALES ----
+Libro -> ID: L1, Titulo: El Quijote, Autor: Cervantes, Genero: Novela, Disponibles: 5
+Comic -> ID: C1, Titulo: Spider-Man, Autor: Stan Lee, Universo: Marvel, Disponibles: 4
+Libro -> ID: L1, Titulo: El Quijote, Autor: Cervantes, Genero: Novela, Disponibles: 5
+Libro -> ID: 10, Titulo: Pedro Paramo, Autor: Juan Rulfo, Genero: Suspenso, Disponibles: 5
+
+---- PRESTAMOS ----
+Prestamo -> Usuario: U2, Material: L1, Fecha: 27/2/2026, Activo: true
